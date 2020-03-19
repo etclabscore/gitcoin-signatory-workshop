@@ -4,7 +4,7 @@
 
 ### Getting Started 
 ```sh
-npm install -g signatory
+npm install -g @etclabscore/signatory
 open inspector.open-rpc.org
 signatory --dir your_key_storage_dir
 ```
